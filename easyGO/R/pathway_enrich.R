@@ -1,5 +1,5 @@
-#' Title
 #' 对基因进行功能富集分析
+#'
 #' @param genelist 输入基因列表
 #' @param fileName 输出结果文件
 #' @param width 保存图片的宽度

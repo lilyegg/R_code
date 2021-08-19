@@ -2,8 +2,7 @@
 % Please edit documentation in R/pathway_enrich.R
 \name{pathway_enrich}
 \alias{pathway_enrich}
-\title{Title
-对基因进行功能富集分析}
+\title{对基因进行功能富集分析}
 \usage{
 pathway_enrich(genelist, fileName, width, height)
 }
@@ -20,7 +19,6 @@ pathway_enrich(genelist, fileName, width, height)
 气泡图和富集结果csv文件
 }
 \description{
-Title
 对基因进行功能富集分析
 }
 \examples{
